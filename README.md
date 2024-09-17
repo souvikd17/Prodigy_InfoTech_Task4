@@ -1,5 +1,6 @@
 # Prodigy InfoTech Task 4
-![Uploading Prodigy Infotech - Tasks - Google Chrome 9_18_2024 2_33_33 AM.png…]()
+![Prodigy Infotech - Tasks - Google Chrome 9_18_2024 2_33_33 AM](https://github.com/user-attachments/assets/916ec30a-be1d-44ab-b894-7ca2695d6ca9)
+
 # Sentiment Analysis and Visualization - Social Media Data
 
 This project involves analyzing and visualizing sentiment patterns in social media data to understand public opinion and attitudes towards specific topics or brands. Using a dataset such as the Twitter Entity Sentiment Analysis dataset, the goal is to extract insights from text data to inform business or marketing strategies.
